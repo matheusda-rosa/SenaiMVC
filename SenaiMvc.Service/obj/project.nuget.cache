@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/x8zXP2TLIc=",
+  "dgSpecHash": "oczTdaJYaeA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiMvc.Service\\SenaiMvc.Service.csproj",
+  "projectFilePath": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc.Service\\SenaiMvc.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matheus_h_da-rosa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

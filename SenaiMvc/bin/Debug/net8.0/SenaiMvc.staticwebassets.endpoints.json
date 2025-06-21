@@ -249,6 +249,88 @@
       ]
     },
     {
+      "Route": "js/Escola.js",
+      "AssetFile": "js/Escola.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5IYbeomeMGv63qZvJDRFWz/P7deNYVW8LuaARDBVq08=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 14:32:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5IYbeomeMGv63qZvJDRFWz/P7deNYVW8LuaARDBVq08="
+        }
+      ]
+    },
+    {
+      "Route": "js/Escola.wvyex4oo2s.js",
+      "AssetFile": "js/Escola.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5IYbeomeMGv63qZvJDRFWz/P7deNYVW8LuaARDBVq08=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 14:32:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wvyex4oo2s"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5IYbeomeMGv63qZvJDRFWz/P7deNYVW8LuaARDBVq08="
+        },
+        {
+          "Name": "label",
+          "Value": "js/Escola.js"
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "js/site.js",
       "Selectors": [],

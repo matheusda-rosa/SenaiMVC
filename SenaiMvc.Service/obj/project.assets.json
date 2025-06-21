@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiMvc.Service\\SenaiMvc.Service.csproj",
+      "projectUniqueName": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc.Service\\SenaiMvc.Service.csproj",
       "projectName": "SenaiMvc.Service",
-      "projectPath": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiMvc.Service\\SenaiMvc.Service.csproj",
+      "projectPath": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc.Service\\SenaiMvc.Service.csproj",
       "packagesPath": "C:\\Users\\matheus_h_da-rosa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiMvc.Service\\obj\\",
+      "outputPath": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -6,39 +6,53 @@
 
 <form method="post" asp-action="Form" asp-controller="Escola">
 
-<div class="mb-3">
-	<input type	="hidden" asp-for="Id">
+	<div class="mb-3">
+		<input type="hidden" asp-for="Id">
+		<input type="hidden" asp-for="Endereco.Id">
 
-	<label class="form-label">Email address</label>
-	<input type="text" class="form-control" asp-for="Nome">
-	@Html.ValidationMessageFor(mbox => mbox.Nome, "", new { @class = "text-danger" })
-</div>
-
-<div class="d-grid gap-2 d-md-flex justify-content-md-end">
-	<button class="btn btn-primary" type="submit">Salvar</button>
-</div>
-<div class="row">
-	<div class="col-md-5">
-		<label class="form-label">Rua</label>
-		<input type="text" class="form-control" asp-for="Endereco.Rua"/>
+		<label class="form-label">Email address</label>
+		<input type="text" class="form-control" asp-for="Nome">
+		@Html.ValidationMessageFor(mbox => mbox.Nome, "", new { @class = "text-danger" })
 	</div>
-	<div class="col-md-5">
-		<label class="form-label">Bairro</label>
-		<input type="text" class="form-control" asp-for="Endereco.Bairro"/>
+
+
+	<div class="row">
+		<div class="col-md-5">
+			<label class="form-label">Rua</label>
+			<input type="text" class="form-control" asp-for="Endereco.Rua" />
+			@Html.ValidationMessageFor(mbox => mbox.Endereco.Rua, "", new { @class = "text-danger" })
 		</div>
-	<div class="col-md-2">
-		<label class="form-label">Número</label>
-		<input type="number" class="form-control" asp-for="Endereco.Rua"/>
+		<div class="col-md-5">
+			<label class="form-label">Bairro</label>
+			<input type="text" class="form-control" asp-for="Endereco.Bairro" />
+			@Html.ValidationMessageFor(mbox => mbox.Endereco.Bairro, "", new { @class = "text-danger" })
+		</div>
+		<div class="col-md-2">
+			<label class="form-label">Número</label>
+			<input type="number" class="form-control" asp-for="Endereco.Numero" />
+			@Html.ValidationMessageFor(mbox => mbox.Endereco.Numero, "", new { @class = "text-danger" })
+		</div>
 	</div>
 	<div class="row">
 		<div class="col-md-6">
 			<label class="form-label">Estado</label>
-			<input type="text" class="form-control" asp-for="Endereco.Estado"/>
+			<select asp-for="Endereco.Estado" asp-items="Model.Estados"  class="form-control">
+				<option value="">-- Selecione um Estado--</option>
+			</select>
+			@Html.ValidationMessageFor(mbox => mbox.Endereco.Estado, "", new { @class = "text-danger" })
+		</div>
+		<div class="col-md-6">
+			<label class="form-label">Cidade</label>
+			<input type="text" class="form-control" asp-for="Endereco.Cidade" />
+			@Html.ValidationMessageFor(mbox => mbox.Endereco.Cidade, "", new { @class = "text-danger" })
 		</div>
 	</div>
-	<div class="col-md-6">
-		<label class="form-label">Cidade</label>
-		<input type="text" class="form-control" asp-for="Endereco.Cidade"/>
+
+	<div class="d-grid gap-2 d-md-flex justify-content-md-end mt-3">
+		<button class="btn btn-primary" type="submit">Salvar</button>
 	</div>
-</div>
+
 </form>
+@section Scripts {
+	<script src="~/escola.js"></script>
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zlImhyU6UIE=",
+  "dgSpecHash": "iB6zmROlsT0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiMvc\\SenaiMvc.csproj",
+  "projectFilePath": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc\\SenaiMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matheus_h_da-rosa\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\matheus_h_da-rosa\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\8.0.16\\microsoft.aspnetcore.mvc.razor.runtimecompilation.8.0.16.nupkg.sha512",

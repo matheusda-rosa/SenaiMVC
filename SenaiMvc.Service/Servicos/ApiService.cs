@@ -39,5 +39,24 @@ namespace SenaiMvc.Service.Servicos
                 return true;
             return false;
         }
+
+        public async Task<List<T>> PegarEstados<T>()
+        {
+            using var httpClient = new HttpClient();
+            var response = await httpClient.GetAsync("https://servicodados.ibge.gov.br/api/v1/localidades/estados");
+            response.EnsureSuccessStatusCode();
+            var json = await response.Content.ReadAsStringAsync();
+            var estados = JsonConvert.DeserializeObject<List<T>>(json);
+            return estados ?? new List<T>();
+        }
+        public async Task <List<T>>AlimentarCidades<T>(string uf)
+        {
+            using var httpClient = new HttpClient();
+            var response = await httpClient.GetAsync($"https://servicodados.ibge.gov.br/api/v1/localidades/estados/{uf}/municipios");
+
+            var json = await response.Content.ReadAsStringAsync();
+            var cidades = JsonConvert.DeserializeObject<List<T>>(json);
+            return cidades;
+        }
     }
 }
