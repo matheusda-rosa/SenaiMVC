@@ -7,10 +7,10 @@
 
             fetch(`/Escola/ObterCidadesPorUF?uf=${uf}`)
                 .then(response => response.json())
-                .then(data => {
+                .then(cidades => {
                     select.innerHTML = '<option value="">-- Selecione a cidade --</option>';
 
-                    data.forEach(function (cidade) {
+                    cidades.forEach(function (cidade) {
                         var option = document.createElement("option");
                         option.value = cidade.id;
                         option.text = cidade.nome;

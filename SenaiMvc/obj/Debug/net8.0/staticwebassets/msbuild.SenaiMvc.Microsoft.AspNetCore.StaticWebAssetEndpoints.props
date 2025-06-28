@@ -27,14 +27,14 @@
     <StaticWebAssetEndpoint Include="_content/SenaiMvc/js/Escola.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Escola.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5IYbeomeMGv63qZvJDRFWz/P7deNYVW8LuaARDBVq08="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"976"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00225IYbeomeMGv63qZvJDRFWz/P7deNYVW8LuaARDBVq08=\u0022"},{"Name":"Last-Modified","Value":"Sat, 21 Jun 2025 14:32:58 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-daICxcLnnLKO1gx8jq0d5RVCruQmyKxZqrmVRaV547s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"986"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022daICxcLnnLKO1gx8jq0d5RVCruQmyKxZqrmVRaV547s=\u0022"},{"Name":"Last-Modified","Value":"Sat, 28 Jun 2025 12:56:12 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/SenaiMvc/js/Escola.wvyex4oo2s.js">
+    <StaticWebAssetEndpoint Include="_content/SenaiMvc/js/Escola.zaslbk6fz7.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Escola.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wvyex4oo2s"},{"Name":"integrity","Value":"sha256-5IYbeomeMGv63qZvJDRFWz/P7deNYVW8LuaARDBVq08="},{"Name":"label","Value":"_content/SenaiMvc/js/Escola.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"976"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00225IYbeomeMGv63qZvJDRFWz/P7deNYVW8LuaARDBVq08=\u0022"},{"Name":"Last-Modified","Value":"Sat, 21 Jun 2025 14:32:58 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zaslbk6fz7"},{"Name":"integrity","Value":"sha256-daICxcLnnLKO1gx8jq0d5RVCruQmyKxZqrmVRaV547s="},{"Name":"label","Value":"_content/SenaiMvc/js/Escola.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"986"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022daICxcLnnLKO1gx8jq0d5RVCruQmyKxZqrmVRaV547s=\u0022"},{"Name":"Last-Modified","Value":"Sat, 28 Jun 2025 12:56:12 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SenaiMvc/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>

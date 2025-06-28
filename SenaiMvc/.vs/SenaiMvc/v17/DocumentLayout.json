@@ -3,34 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{68EFF42D-7EBF-482E-9742-F2679EC67642}|..\\SenaiMvc.Service\\SenaiMvc.Service.csproj|c:\\users\\matheus_h_da-rosa\\source\\repos\\api\\senaiapimvc\\senaimvc.service\\servicos\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|c:\\users\\matheus_h_da-rosa\\source\\repos\\api\\senaiapimvc\\senaimvc\\controllers\\escolacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|solutionrelative:controllers\\escolacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|c:\\users\\matheus_h_da-rosa\\source\\repos\\api\\senaiapimvc\\senaimvc\\wwwroot\\js\\escola.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|solutionrelative:wwwroot\\js\\escola.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|c:\\users\\matheus_h_da-rosa\\source\\repos\\api\\senaiapimvc\\senaimvc\\views\\escola\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|solutionrelative:views\\escola\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68EFF42D-7EBF-482E-9742-F2679EC67642}|..\\SenaiMvc.Service\\SenaiMvc.Service.csproj|c:\\users\\matheus_h_da-rosa\\source\\repos\\api\\senaiapimvc\\senaimvc.service\\interfaces\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68EFF42D-7EBF-482E-9742-F2679EC67642}|..\\SenaiMvc.Service\\SenaiMvc.Service.csproj|c:\\users\\matheus_h_da-rosa\\source\\repos\\api\\senaiapimvc\\senaimvc.service\\servicos\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|c:\\users\\matheus_h_da-rosa\\source\\repos\\api\\senaiapimvc\\senaimvc\\models\\escola\\escolamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|solutionrelative:models\\escola\\escolamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|c:\\users\\matheus_h_da-rosa\\source\\repos\\api\\senaiapimvc\\senaimvc\\views\\escola\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|solutionrelative:views\\escola\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|c:\\users\\matheus_h_da-rosa\\source\\repos\\api\\senaiapimvc\\senaimvc\\views\\shared\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|solutionrelative:views\\shared\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|c:\\users\\matheus_h_da-rosa\\source\\repos\\api\\senaiapimvc\\senaimvc\\models\\escola\\enderecomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,6 +26,25 @@
       "RelativeMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|solutionrelative:models\\escola\\cidadeibge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{68EFF42D-7EBF-482E-9742-F2679EC67642}|..\\SenaiMvc.Service\\SenaiMvc.Service.csproj|c:\\users\\matheus_h_da-rosa\\source\\repos\\api\\senaiapimvc\\senaimvc.service\\interfaces\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|c:\\users\\matheus_h_da-rosa\\source\\repos\\api\\senaiapimvc\\senaimvc\\wwwroot\\js\\escola.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|solutionrelative:wwwroot\\js\\escola.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|c:\\users\\matheus_h_da-rosa\\source\\repos\\api\\senaiapimvc\\senaimvc\\views\\escola\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|solutionrelative:views\\escola\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|c:\\users\\matheus_h_da-rosa\\source\\repos\\api\\senaiapimvc\\senaimvc\\views\\shared\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|solutionrelative:views\\shared\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|c:\\users\\matheus_h_da-rosa\\source\\repos\\api\\senaiapimvc\\senaimvc\\views\\escola\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|solutionrelative:views\\escola\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|c:\\users\\matheus_h_da-rosa\\source\\repos\\api\\senaiapimvc\\senaimvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{657C1466-E8B4-4C42-B5AA-0AC5484FF78B}|SenaiMvc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -56,7 +56,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -69,64 +69,63 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T13:02:35.781Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Escola.js",
               "DocumentMoniker": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc\\wwwroot\\js\\Escola.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\Escola.js",
               "ToolTip": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc\\wwwroot\\js\\Escola.js",
               "RelativeToolTip": "wwwroot\\js\\Escola.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-06-21T14:18:21.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IApiService.cs",
               "DocumentMoniker": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc.Service\\Interfaces\\IApiService.cs",
               "RelativeDocumentMoniker": "..\\SenaiMvc.Service\\Interfaces\\IApiService.cs",
               "ToolTip": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc.Service\\Interfaces\\IApiService.cs",
               "RelativeToolTip": "..\\SenaiMvc.Service\\Interfaces\\IApiService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T13:25:14.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ApiService.cs",
               "DocumentMoniker": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc.Service\\Servicos\\ApiService.cs",
               "RelativeDocumentMoniker": "..\\SenaiMvc.Service\\Servicos\\ApiService.cs",
               "ToolTip": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc.Service\\Servicos\\ApiService.cs",
               "RelativeToolTip": "..\\SenaiMvc.Service\\Servicos\\ApiService.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAkwDoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T13:17:06.564Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "CidadeIBGE.cs",
               "DocumentMoniker": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc\\Models\\Escola\\CidadeIBGE.cs",
               "RelativeDocumentMoniker": "Models\\Escola\\CidadeIBGE.cs",
               "ToolTip": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc\\Models\\Escola\\CidadeIBGE.cs",
               "RelativeToolTip": "Models\\Escola\\CidadeIBGE.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T13:06:52.413Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "EstadoIBGE.cs",
               "DocumentMoniker": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc\\Models\\Escola\\EstadoIBGE.cs",
               "RelativeDocumentMoniker": "Models\\Escola\\EstadoIBGE.cs",
@@ -139,78 +138,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "EnderecoModel.cs",
               "DocumentMoniker": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc\\Models\\Escola\\EnderecoModel.cs",
               "RelativeDocumentMoniker": "Models\\Escola\\EnderecoModel.cs",
               "ToolTip": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc\\Models\\Escola\\EnderecoModel.cs",
               "RelativeToolTip": "Models\\Escola\\EnderecoModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-14T14:20:03.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "EscolaModel.cs",
               "DocumentMoniker": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc\\Models\\Escola\\EscolaModel.cs",
               "RelativeDocumentMoniker": "Models\\Escola\\EscolaModel.cs",
               "ToolTip": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc\\Models\\Escola\\EscolaModel.cs",
               "RelativeToolTip": "Models\\Escola\\EscolaModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T12:13:03.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EscolaController.cs",
               "DocumentMoniker": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc\\Controllers\\EscolaController.cs",
               "RelativeDocumentMoniker": "Controllers\\EscolaController.cs",
               "ToolTip": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc\\Controllers\\EscolaController.cs",
               "RelativeToolTip": "Controllers\\EscolaController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAkwEUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwDsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T11:52:24.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Form.cshtml",
               "DocumentMoniker": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc\\Views\\Escola\\Form.cshtml",
               "RelativeDocumentMoniker": "Views\\Escola\\Form.cshtml",
               "ToolTip": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc\\Views\\Escola\\Form.cshtml",
               "RelativeToolTip": "Views\\Escola\\Form.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-07T12:07:05.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc\\Views\\Escola\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Escola\\Index.cshtml",
               "ToolTip": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc\\Views\\Escola\\Index.cshtml",
               "RelativeToolTip": "Views\\Escola\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-07T11:54:04.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Menu.cshtml",
               "DocumentMoniker": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc\\Views\\Shared\\Menu.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Menu.cshtml",
               "ToolTip": "C:\\Users\\matheus_h_da-rosa\\source\\repos\\Api\\SenaiApiMVC\\SenaiMvc\\Views\\Shared\\Menu.cshtml",
               "RelativeToolTip": "Views\\Shared\\Menu.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-07T11:23:21.105Z",
               "EditorCaption": ""

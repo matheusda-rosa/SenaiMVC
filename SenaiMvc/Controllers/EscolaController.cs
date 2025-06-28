@@ -42,6 +42,7 @@ namespace SenaiMvc.Controllers
                 var retorno = await _apiService.PostAsync<EscolaModel>("Escola", model);
                 return Redirect("Index");
             }
+            await AlimentarEstados(model);
             return View(model);
         }
 
@@ -49,6 +50,13 @@ namespace SenaiMvc.Controllers
         public async Task<IActionResult> Editar(long id)
         {
             var model = await _apiService.GetAsync<EscolaModel>($"Escola/PegarPorId?id={id}");
+            if (model.Endereco == null)
+                model.Endereco = new EnderecoModel();
+            await AlimentarEstados(model);
+            if (!string.IsNullOrEmpty(model.Endereco.Estado))
+            {
+                await AlimentarCidade(model, model.Endereco.Estado);
+            }
             return View("Form", model);
         }
         [HttpGet]
@@ -70,9 +78,9 @@ namespace SenaiMvc.Controllers
                 .ToList();
         }
 
-        private async Task AlimentarCidades(EscolaModel model)
+        private async Task AlimentarCidade(EscolaModel model, string uf)
         {
-            var cidades = await _apiService.AlimentarCidades<CidadeIBGE>(model.Endereco.Estado);
+            var cidades = await _apiService.AlimentarCidades<CidadeIBGE>(uf);
             model.Cidades = cidades
                 .OrderBy(c => c.Nome)
                 .Select(c => new SelectListItem
@@ -80,8 +88,16 @@ namespace SenaiMvc.Controllers
                     Value = c.Id.ToString(),
                     Text = c.Nome,
                     Selected = c.Id.ToString() == model.Endereco.Cidade.ToString()
-                })
-                .ToList();
+                }).ToList();
+        }
+
+
+        [HttpGet]
+        public async Task<IActionResult> ObterCidadesPorUF(string uf)
+        {            
+            var cidades = await _apiService.AlimentarCidades<CidadeIBGE>(uf);
+            var resultado = cidades.OrderBy(c => c.Nome).Select(c => new { id = c.Id, nome = c.Nome }).ToList();
+            return Json(resultado);            
         }
     }
 }
